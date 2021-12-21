@@ -1,0 +1,156 @@
+RCVD: PKT_ID 0, from 1l
+RCVD, RSSI level:  -79.50dB
+RCVD, TX power:  0.00dB
+
+##RX|0|1l|0|-79.50|0.00|1475584066132|XR##
+
+RCVD: PKT_ID 1, from 1l
+RCVD, RSSI level:  -80.00dB
+RCVD, TX power:  0.00dB
+
+##RX|1|1l|0|-80.00|0.00|1475584066151|XR##
+
+RCVD: PKT_ID 2, from 1l
+RCVD, RSSI level:  -79.50dB
+RCVD, TX power:  0.00dB
+
+##RX|2|1l|0|-79.50|0.00|1475584066168|XR##
+
+RCVD: PKT_ID 3, from 1l
+RCVD, RSSI level:  -79.50dB
+RCVD, TX power:  0.00dB
+
+##RX|3|1l|0|-79.50|0.00|1475584066186|XR##
+
+RCVD: PKT_ID 4, from 1l
+RCVD, RSSI level:  -79.00dB
+RCVD, TX power:  0.00dB
+
+##RX|4|1l|0|-79.00|0.00|1475584066205|XR##
+
+RCVD: PKT_ID 5, from 1l
+RCVD, RSSI level:  -79.00dB
+RCVD, TX power:  0.00dB
+
+##RX|5|1l|0|-79.00|0.00|1475584066223|XR##
+
+RCVD: PKT_ID 6, from 1l
+RCVD, RSSI level:  -78.50dB
+RCVD, TX power:  0.00dB
+
+##RX|6|1l|0|-78.50|0.00|1475584066242|XR##
+
+RCVD: PKT_ID 7, from 1l
+RCVD, RSSI level:  -79.00dB
+RCVD, TX power:  0.00dB
+
+##RX|7|1l|0|-79.00|0.00|1475584066260|XR##
+
+RCVD: PKT_ID 8, from 1l
+RCVD, RSSI level:  -79.50dB
+RCVD, TX power:  0.00dB
+
+##RX|8|1l|0|-79.50|0.00|1475584066279|XR##
+
+RCVD: PKT_ID 9, from 1l
+RCVD, RSSI level:  -80.00dB
+RCVD, TX power:  0.00dB
+
+##RX|9|1l|0|-80.00|0.00|1475584066297|XR##
+
+RCVD: PKT_ID 10, from 1l
+RCVD, RSSI level:  -79.50dB
+RCVD, TX power:  0.00dB
+
+##RX|10|1l|0|-79.50|0.00|1475584066318|XR##
+
+RCVD: PKT_ID 11, from 1l
+RCVD, RSSI level:  -78.50dB
+RCVD, TX power:  0.00dB
+
+##RX|11|1l|0|-78.50|0.00|1475584066336|XR##
+
+RCVD: PKT_ID 12, from 1l
+RCVD, RSSI level:  -78.00dB
+RCVD, TX power:  0.00dB
+
+##RX|12|1l|0|-78.00|0.00|1475584066355|XR##
+
+RCVD: PKT_ID 13, from 1l
+RCVD, RSSI level:  -78.50dB
+RCVD, TX power:  0.00dB
+
+##RX|13|1l|0|-78.50|0.00|1475584066375|XR##
+
+RCVD: PKT_ID 14, from 1l
+RCVD, RSSI level:  -80.00dB
+RCVD, TX power:  0.00dB
+
+##RX|14|1l|0|-80.00|0.00|1475584066392|XR##
+
+RCVD: PKT_ID 15, from 1l
+RCVD, RSSI level:  -79.50dB
+RCVD, TX power:  0.00dB
+
+##RX|15|1l|0|-79.50|0.00|1475584066411|XR##
+
+RCVD: PKT_ID 16, from 1l
+RCVD, RSSI level:  -78.00dB
+RCVD, TX power:  0.00dB
+
+##RX|16|1l|0|-78.00|0.00|1475584066429|XR##
+
+RCVD: PKT_ID 17, from 1l
+RCVD, RSSI level:  -79.00dB
+RCVD, TX power:  0.00dB
+
+##RX|17|1l|0|-79.00|0.00|1475584066448|XR##
+
+RCVD: PKT_ID 18, from 1l
+RCVD, RSSI level:  -79.50dB
+RCVD, TX power:  0.00dB
+
+##RX|18|1l|0|-79.50|0.00|1475584066465|XR##
+
+RCVD: PKT_ID 19, from 1l
+RCVD, RSSI level:  -79.50dB
+RCVD, TX power:  0.00dB
+
+##RX|19|1l|0|-79.50|0.00|1475584066485|XR##
+
+RCVD: PKT_ID 20, from 1l
+RCVD, RSSI level:  -80.00dB
+RCVD, TX power:  0.00dB
+
+##RX|20|1l|0|-80.00|0.00|1475584066502|XR##
+
+RCVD: PKT_ID 21, from 1l
+RCVD, RSSI level:  -79.00dB
+RCVD, TX power:  0.00dB
+
+##RX|21|1l|0|-79.00|0.00|1475584066521|XR##
+
+RCVD: PKT_ID 22, from 1l
+RCVD, RSSI level:  -80.00dB
+RCVD, TX power:  0.00dB
+
+##RX|22|1l|0|-80.00|0.00|1475584066541|XR##
+
+RCVD: PKT_ID 23, from 1l
+RCVD, RSSI level:  -79.00dB
+RCVD, TX power:  0.00dB
+
+##RX|23|1l|0|-79.00|0.00|1475584066559|XR##
+
+RCVD: PKT_ID 24, from 1l
+RCVD, RSSI level:  -80.00dB
+RCVD, TX power:  0.00dB
+
+##RX|24|1l|0|-80.00|0.00|1475584066579|XR##
+
+RCVD: PKT_ID 25, from 1l
+RCVD, RSSI level:  -79.00dB
+RCVD, TX power:  0.00dB
+
+##RX|25|1l|0|-79.00|0.00|1475584066596|XR##
+

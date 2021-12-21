@@ -1,0 +1,115 @@
+set_freq 2
+Successfully UPDATED frequency band: 2400 MHz
+Successfully UPDATED output power in 2.4 band to default value: 1 dBm
+>RCVD: PKT_ID 0, from 1l
+RCVD, RSSI level:  -92.00dB
+RCVD, TX power:  1.00dB
+
+##RX|0|1l|0|-92.00|1.00|1475582585339|XR##
+
+RCVD: PKT_ID 1, from 1l
+RCVD, RSSI level:  -91.00dB
+RCVD, TX power:  1.00dB
+
+##RX|1|1l|0|-91.00|1.00|1475582585359|XR##
+
+RCVD: PKT_ID 2, from 1l
+RCVD, RSSI level:  -92.00dB
+RCVD, TX power:  1.00dB
+
+##RX|2|1l|0|-92.00|1.00|1475582585380|XR##
+
+RCVD: PKT_ID 3, from 1l
+RCVD, RSSI level:  -90.50dB
+RCVD, TX power:  1.00dB
+
+##RX|3|1l|0|-90.50|1.00|1475582585400|XR##
+
+RCVD: PKT_ID 4, from 1l
+RCVD, RSSI level:  -92.50dB
+RCVD, TX power:  -63.00dB
+
+##RX|4|1l|0|-92.50|-63.00|1475582585420|XR##
+
+RCVD: PKT_ID 7, from 1l
+RCVD, RSSI level:  -94.50dB
+RCVD, TX power:  1.00dB
+
+##RX|7|1l|0|-94.50|1.00|1475582585493|XR##
+
+RCVD: PKT_ID 8, from 1l
+RCVD, RSSI level:  -94.50dB
+RCVD, TX power:  1.00dB
+
+##RX|8|1l|0|-94.50|1.00|1475582585512|XR##
+
+RCVD: PKT_ID 9, from 1l
+RCVD, RSSI level:  -93.50dB
+RCVD, TX power:  1.00dB
+
+##RX|9|1l|0|-93.50|1.00|1475582585533|XR##
+
+control
+-Error: Command does not exist
+>>RCVD: PKT_ID 0, from 1l
+RCVD, RSSI level:  -93.00dB
+RCVD, TX power:  1.00dB
+
+##RX|0|1l|0|-93.00|1.00|1475582630292|XR##
+
+RCVD: PKT_ID 1, from 1l
+RCVD, RSSI level:  -93.50dB
+RCVD, TX power:  1.00dB
+
+##RX|1|1l|0|93.50|1.00|1475582630313|XR##
+
+RCVD: PKT_ID 2, from 1l
+RCVD, RSSI level:  -92.50dB
+RCVD, TX power:  1.00dB
+
+##RX|2|1l|0|-92.50|1.00|1475582630333|XR##
+
+RCVD: PKT_ID 3, from 1l
+RCVD, RSSI level:  -93.00dB
+RCVD, TX power:  1.00dB
+
+##RX|3|1l|0|-93.00|1.00|1475582630352|XR##
+
+RCVD: PKT_ID 4, from 1l
+RCVD, RSSI level:  -94.50dB
+RCVD, TX power:  1.00dB
+
+##RX|4|1l|0|-94.50|1.00|1475582630372|XR##
+
+RCVD: PKT_ID 5, from 1l
+RCVD, RSSI level:  -91.50dB
+RCVD, TX power:  1.00dB
+
+##RX|5|1l|0|-91.50|1.00|1475582630390|XR##
+
+RCVD: PKT_ID 7, from 1l
+RCVD, RSSI level:  -94.00dB
+RCVD, TX power:  1.00dB
+
+##RX|7|1l|0|-94.00|1.00|1475582630429|XR##
+
+RCVD: PKT_ID 9, from 1l
+RCVD, RSSI level:  -91.50dB
+RCVD, TX power:  1.00dB
+
+##RX|9|1l|0|-91.50|1.00|1475582630468|XR##
+
+##RX|97|1l|0|-94.50|1.00|1475582630468|XR##
+
+##RX|97|1l|0|99.50|1.00|1475582630468|XR##
+
+##RX|101|1l|0|-91.50|1.00|1475582630468|XR##
+
+##RX|199|1l|0|+91.50|1.00|1475582630468|XR##
+
+##RX|1990|1l|0|+91.50|1.00|1475582630468|XR##
+
+
+era control, ahora viene
+-Error: Command does not exist
+>>
